@@ -11,4 +11,6 @@ In order to change the SVG, simply replace the Path's `d` to your SVG's Path's `
 
 YT Video walking through the project:
 
+<p align="center">
 [![YouTube tutorial](https://img.youtube.com/vi/Wnd9CiUvKA4/0.jpg)](https://www.youtube.com/watch?v=Wnd9CiUvKA4)
+</p>
